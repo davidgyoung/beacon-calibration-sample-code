@@ -13,7 +13,7 @@ This allows the receiver to estimate whether it it closer or futher away than th
 
 ## Why caliberate?
 
-Calibrating a beacon after installation allows receivers (typically mobile apps) to make more accurate distnace estimates.  
+Calibrating a beacon after installation allows receivers (typically mobile apps) to make more accurate distance estimates.  (Read more about how distance estimates work in my blog post [here](http://www.davidgyoungtech.com/2020/05/15/how-far-can-you-go)).
 
 ## When should you calibrate?
 
@@ -22,7 +22,7 @@ Calibration should be redone after the beacon is installed, replaced or moved, o
 ## Limitations
 
 Calibration assumes that different receiving devices (typically mobile phones) all measure the same signal for the same beacon.  While this is very roughly true, in practice, individual phones models often vary by +/- 3 dB in RSSI for their average measurement the same beacon.  
-Beacuase the phone that does the calibration won't be representative of all phones, the calibration won't be perfect.  Your best bet is to choose the most common phone make / model (e.g. either the the newest Apple or Samsung model depending on what is most common in hour area) and that will be the best you can do.
+Beacuase the phone that does the calibration won't be representative of all phones, the calibration won't be perfect.  Your best bet is to choose the most common phone make / model (e.g. either the the newest Apple or Samsung model depending on what is most common in hour area) and that will be the best you can do.  Read more about this problem in my blog post [here](http://www.davidgyoungtech.com/2020/05/15/how-far-can-you-go)
 
 
 ## Need Help?
