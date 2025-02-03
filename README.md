@@ -25,3 +25,8 @@ Calibration assumes that different receiving devices (typically mobile phones) a
 Beacuase the phone that does the calibration won't be representative of all phones, the calibration won't be perfect.  Your best bet is to choose the most common phone make / model (e.g. either the the newest Apple or Samsung model depending on what is most common in hour area) and that will be the best you can do.
 
 
+## Need Help?
+
+If you need expert help with your beacon project, contact David G. Young [here](http://www.davidgyoungtech.com).
+
+
