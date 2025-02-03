@@ -2,7 +2,7 @@
 
 This repository contains sample code for iOS and Android to calibrate a Bluetooth beacon.
 
-* iOS Sample
+* [iOS Sample](https://github.com/davidgyoung/beacon-calibration-sample-code/blob/main/CalibrationTool.swift)
 * [Andorid Sample](https://github.com/davidgyoung/beacon-calibration-sample-code/blob/main/CalibrationTool.kt)
 
 ## What is calibration?
